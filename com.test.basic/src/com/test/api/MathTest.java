@@ -1,0 +1,11 @@
+package com.test.api;
+
+public class MathTest {
+
+	public static void main(String[] args) {
+		System.out.println("Pi" + Math.PI);
+		System.out.println("Big Number" + Math.max(25, 56));
+		System.out.println("Smaller Number" + Math.min(56, 45));
+	}
+
+}
